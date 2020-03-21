@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aevaisonah.forestbrook.net/sitemap.xml
